@@ -15,4 +15,8 @@
 | Medium            | 1 to 4 hours                                       | 135°F (57°C) to 144°F (62°C)             |
 | Medium-well       | 1 to 3 1/2 hours                                   | 145°F (63°C) to 155°F (68°C)             |
 | Well-done         | 1 to 3 hours                                       | 156°F (69°C) and up                      |
-##### Chicken 
+##### Whole Chicken
+| Texture           | Time            | Temp  |
+|-------------------|-----------------|-------|
+| Very rare to rare |6 1/2 hours      | 150°F |
+
