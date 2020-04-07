@@ -18,5 +18,5 @@
 ##### Whole Chicken
 | Texture           | Time            | Temp  |
 |-------------------|-----------------|-------|
-| Very rare to rare |6 1/2 hours      | 150°F |
+| Juicy Tender      |6 1/2 hours      | 150°F |
 
