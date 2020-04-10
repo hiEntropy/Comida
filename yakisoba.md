@@ -10,7 +10,7 @@
 
 ## Cook Time 
 
-15 hour
+15 minutes
 
 ## Ingredience 
 
