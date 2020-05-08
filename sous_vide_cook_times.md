@@ -19,4 +19,10 @@
 | Texture           | Time            | Temp  |
 |-------------------|-----------------|-------|
 | Juicy Tender      |6 1/2 hours      | 150°F |
-
+##### Chicken Breast
+| Texture                                                    | Time             | Temp         |
+|------------------------------------------------------------|------------------|--------------|
+| Tender and juicy for cold chicken salad                    | 1 to 4 hours     | 150°F (66°C) |
+| Very soft and juicy, served hot                            | 1 1/2 to 4 hours | 140°F (60°C) |
+| Juicy, tender, and slightly stringy, served hot            | 1 to 4 hours     | 150°F (66°C) |
+| Traditional, juicy, firm, and slightly stringy, served hot | 1 to 4 hours     | 160°F (71°C) |
