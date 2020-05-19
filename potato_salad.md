@@ -1,4 +1,4 @@
-## Salsa 
+## Potato Salad 
 
 ## Servings 
 
