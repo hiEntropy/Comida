@@ -1,4 +1,4 @@
-## Marinara
+## Marinara Sauce
 
 ## Servings 
 
@@ -13,7 +13,6 @@
 35 minutes 
 
 ## Ingredience
-
 
 * 1/4 c.extra-virgin olive oil
 * 1/2 medium onion, minced
