@@ -37,3 +37,9 @@
 | Texture                 | Time    | Temp  |
 |-------------------------|---------|-------|
 | Tender and not stringy  | 4 hours | 140°F |
+
+##### Pork Ribs 
+| Texture            | Time     | Temp  |
+|--------------------|----------|-------|
+| Fall off the Bone  | 36 hours | 145°F |
+| Fall off the Bone  | 12 hours | 165°F |
