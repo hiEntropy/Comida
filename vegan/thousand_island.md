@@ -13,7 +13,7 @@ about 1/2 cup
 3 minutes 
 
 # Ingredience
-* 1⁄2 cup mayonnaise
+* 1⁄2 cup vegan mayonnaise
 * 2 tablespoons ketchup
 * 1 tablespoon white vinegar
 * 2 teaspoons sugar
