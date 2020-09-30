@@ -15,23 +15,23 @@
 ## Ingredience 
 
 * 2 tbsp vegetable oil
-* 4 garlic cloves , minced4 garlic cloves , minced
-* 2 tsp fresh ginger , finely grated2 tsp fresh ginger , finely grated
-* 1/2 onion , finely chopped (brown or yellow)1/2 onion , finely chopped (brown or yellow)
-* 400g/14oz can coconut milk (full fat)400g/14oz can coconut milk (full fat)
-* 1 cup/ 250 ml chicken broth1 cup/ 250 ml chicken broth
-* 1/2 cup / 125 ml tomato passata (tomato puree) (Note 1)1/2 cup / 125 ml tomato passata (tomato puree) 
-* 400 g/14 oz can brown lentils , drained400 g/14 oz can brown lentils , drained
-* 250 g / 8 oz pumpkin (~3 cups) , cut into 2cm / 4/5" cubes250 g / 8 oz pumpkin (~3 cups) , cut into 2cm / 4/5" cubes
-* 80 g / 2 cups (packed) baby spinach80 g / 2 cups (packed) baby spinach
-* 1/2 cup cashews , unsalted (roasted or raw) (Note 2)1/2 cup cashews , unsalted (roasted or raw) 
-* 1/2 tsp each salt + pepper1/2 tsp each salt + pepper
+* 4 garlic cloves , minced
+* 2 tsp fresh ginger 
+* 1/2 onion , finely chopped (brown or yellow)
+* 400g/14oz can coconut milk (full fat)
+* 1 cup/ 250 ml vegetable broth 
+* 1/2 cup / 125 ml tomato passata (tomato puree) 
+* 400 g/14 oz can brown lentils , drained
+* 250 g / 8 oz squash (~3 cups) 
+* 80 g / 2 cups (packed) baby spinach
+* 1/2 cup cashews , unsalted (roasted or raw) 
+* 1/2 tsp each salt + pepper
 * 1 tbsp garam masala 
-* 2 tbsp curry powder (mild or spicy, your choice) (Note 4)2 tbsp curry powder (mild or spicy, your choice) 
-* 2 tsp cumin2 tsp cumin
-* 1 tsp coriander powder1 tsp coriander powder
-* 1 tsp paprika (sweet, or hot for spice!)1 tsp paprika (sweet, or hot for spice!)
-* 1/2 tsp turmeric1/2 tsp turmeric
+* 2 tbsp curry powder (mild or spicy, your choice)
+* 2 tsp cumin
+* 1 tsp coriander powder
+* 1 tsp paprika (sweet, or hot for spice!)
+* 1/2 tsp turmeric
 
 ## Directions
 * Heat oil in a deep skillet or pot over medium high heat. Add onion, garlic and ginger, cook for 2 minutes until onion is a bit tinged with gold.
