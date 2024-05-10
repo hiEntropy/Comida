@@ -52,5 +52,13 @@
 2. Place all the ingredients for the marinade in a medium bowl or ziptop bag and combine until smooth. Fold in the chicken and make sure the chicken is completely coated with the marinade. Leave in the refrigerator covered for 1 hour, preferably overnight.
 3. When ready to cook, preheat the oven to 400F/200C.
 4. Lay the marinated chicken pieces out on a baking dish or roasting pan. Roast the chicken in the oven until the internal temperature reaches 164F/74C, 30 to 45 minutes (boneless chicken takes about 20 minutes), rotating the dish halfway through during cooking. Transfer the baking dish to the upper rack of the oven, and then broil over high for 2 to 4 minutes, until the chicken starts to char in a few spots. Remove the baking dish from the oven.
-5. At the 20-minute mark of cooking the chicken, start the sauce. Melt the butter in a medium Dutch oven or saucepan over low heat. Once the butter begins to foam, stir in the oil. Add the Kashmiri chilli powder, toasted cumin, garlic, ginger, garam masala, and green chilli. Stir until fragrant, 30 to 45 seconds. Then add the tomato paste and cook until the paste begins to turn light brown, 5 to 6 minutes. Pour in the heavy cream and add the chicken and any liquids left behind in the baking dish. Fold to coat well. Stir in the lemon juice, taste, and season with salt. Bring to a boil over medium-high; the fat should separate from the sauce. Remove from the heat. Garnish with cilantro and salted butter if using. Serve hot or warm with rice or naan. Leftovers will stay good for up to 3 days if stored in an airtight container in the refrigerator.
+5. At the 20-minute mark of cooking the chicken, start the sauce. Melt the butter in a medium Dutch oven or saucepan over low heat. 
+6. Once the butter begins to foam, stir in the oil. 
+7. Add the Kashmiri chilli powder, toasted cumin, garlic, ginger, garam masala, and green chilli. Stir until fragrant, 30 to 45 seconds. 
+8. Then add the tomato paste and cook until the paste begins to turn light brown, 5 to 6 minutes. 
+9. Pour in the heavy cream and add the chicken and any liquids left behind in the baking dish. Fold to coat well. 
+10. Stir in the lemon juice, taste, and season with salt. 
+11. Bring to a boil over medium-high; the fat should separate from the sauce. 
+12. Remove from the heat. Garnish with cilantro and salted butter if using. 
+13. Serve hot or warm with rice or naan. Leftovers will stay good for up to 3 days if stored in an airtight container in the refrigerator.
 
